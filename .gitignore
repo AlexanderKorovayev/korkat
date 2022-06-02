@@ -127,3 +127,26 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jetbrains
+.idea
+
+# os x
+.DS_Store
+
+# ds models
+models
+nltk_data/
+
+/models
+.mleco
+
+# for mleco run
+mleco_config.yml
+
+/tmp
+.data
+.datasets
+
+# vscode
+.vscode
